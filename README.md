@@ -6,7 +6,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20NLP-blueviolet)](https://github.com/tushar/SENTIMENT-ANALYZER)
-  [![Developed by Tushar and Tushar Satish](https://img.shields.io/badge/Developed%20by-Tushar%20Thakur%20%26%20Tushar%20Satish-blue.svg)](https://github.com/tushar/SENTIMENT-ANALYZER)
+  [![Developed by Tushar ](https://img.shields.io/badge/Developed%20by-Tushar%20%20%26%20Tushar%20Satish-blue.svg)](https://github.com/tushar/SENTIMENT-ANALYZER)
 
   A hybrid Natural Language Processing engine utilizing rule-based linguistic patterns and neural network classification to accurately identify and quantify sentiment in textual data.
 
@@ -35,9 +35,7 @@
 
 </div>
 
-> [!IMPORTANT]
-> ### 🤝🏻 Special Acknowledgement
-> *Special thanks to **[Tushar Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
+
 
 ---
 
