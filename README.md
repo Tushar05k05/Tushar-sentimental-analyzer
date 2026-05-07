@@ -30,7 +30,7 @@
   <a name="authors"></a>
   ## Authors
 
-| <a href="https://github.com/tushar"><img src="https://github.com/tushar.png" width="150" height="150" alt="Tushar"></a><br>[**Tushar**](https://github.com/tushar)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Tushar/Tushar.png" width="150" height="150" alt="Tushar Satish"></a><br>[**Tushar Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| <a href="https://github.com/tushar"><img src="https://github.com/tushar.png" width="150" height="150" alt="Tushar"></a><br>[**Tushar**](https://github.com/tushar)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="Tushar/Tushar.png" width="150" height="150" alt="Tushar"></a><br>[**Tushar**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 
 </div>
